@@ -1,12 +1,12 @@
 <template>
-  <v-footer class="mt-8 custom-footer" padless>
+    <v-footer class="mt-8 custom-footer" padless>
         <v-row align="center" justify="center" class="py-4">
             <v-col cols="12" md="8" class="text-center">
                 <span class="footer-text" style="font-size: 1.1rem;">
                     <v-icon left color="white" size="20">mdi-timer-outline</v-icon>
                     <strong>Método Cronos</strong>
                     &mdash;
-                    <a href="https://linktr.ee/luiztrindade" target="_blank" rel="noopener"
+                    <a href="https://linktr.ee/luiztrindade_dev" target="_blank" rel="noopener"
                         style="color: #fff; text-decoration: underline;">
                         Meu Linktree
                     </a>
